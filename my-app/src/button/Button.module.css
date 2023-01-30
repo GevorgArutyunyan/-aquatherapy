@@ -1,0 +1,21 @@
+.button {
+  font-size: 14px;
+  font-family: 'Mulish', sans-serif;
+  font-weight: 500;
+  line-height: 18.9px;
+  background: #018ABE;
+  border-radius: 3px;
+  border-color: white; 
+  padding: 9px 15px 9px 15px;
+  transition: 0.8s all ease;
+}
+
+.button a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #066d94;
+  transition: 0.8s all ease;
+}

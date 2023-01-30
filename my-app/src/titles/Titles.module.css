@@ -1,0 +1,24 @@
+.container {
+    max-width: 1296px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 150px 0 100px 0;
+}
+
+.text {
+    font-size: 42px;
+    line-height: 58.8px;
+    text-align: center;
+    margin: 0 45px;
+    color: white;
+    font-family: 'El Messiri', sans-serif;
+    font-weight: 700;
+    
+}
